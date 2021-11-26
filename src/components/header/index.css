@@ -1,0 +1,26 @@
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+}
+
+header {
+    min-height: 50px;
+    background-color: #008080;
+}
+
+a {
+    margin-right: 20px;
+
+    color: black;
+
+    font-style: none;
+}
+
+.link {
+    font-style: none;
+}

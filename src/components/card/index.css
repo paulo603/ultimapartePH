@@ -1,0 +1,22 @@
+.card-container{
+    display: flex;
+    justify-content: center;
+    background-color: #5F9EA0;
+    width: 250px;
+    min-height: 300px;
+    margin-right: 50px;
+    margin-top: 50px
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.imgImitation {
+    background-color: white;
+    height: 150px;
+    width: 150px;
+}
